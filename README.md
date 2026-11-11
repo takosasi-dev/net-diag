@@ -76,3 +76,9 @@ python build.py
 ## ライセンス
 
 MIT License. 詳細は [LICENSE](LICENSE) を参照。
+
+<!-- takosasi-dev line: the sign and the links follow https://github.com/takosasi-dev/takosasi-dev -->
+<p align="center">
+<a href="https://github.com/takosasi-dev"><img src="https://raw.githubusercontent.com/takosasi-dev/takosasi-dev/main/assets/stations/net-diag.svg" width="640" alt="たこさし線の駅名標(作者のほかの制作物へ)"></a><br>
+<a href="https://takosasi-dev.github.io/takosasi-dev/line/?from=net-diag&amp;go=prev">◀ 前の駅</a> ・ <a href="https://github.com/takosasi-dev">路線図</a> ・ <a href="https://takosasi-dev.github.io/takosasi-dev/line/?from=net-diag&amp;go=next">次の駅 ▶</a>
+</p>
